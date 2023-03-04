@@ -1,0 +1,8 @@
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\obj\Debug\NUMERO DE CEDULA.csproj.AssemblyReference.cache
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\obj\Debug\NUMERO DE CEDULA.csproj.SuggestedBindingRedirects.cache
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\obj\Debug\NUMERO DE CEDULA.csproj.CoreCompileInputs.cache
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\bin\Debug\NUMERO DE CEDULA.exe.config
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\bin\Debug\NUMERO DE CEDULA.exe
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\bin\Debug\NUMERO DE CEDULA.pdb
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\obj\Debug\NUMERO DE CEDULA.exe
+W:\Repositorios C#\Practica 12  14 dic 22\NUMERO DE CEDULA\NUMERO DE CEDULA\obj\Debug\NUMERO DE CEDULA.pdb
